@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TextView Clickable Links</string>
+
+    <string name="text_linksachi">
+        link to Sachivalayam direct links
+        \n
+        \n<ul><li><a href = "https://sachivalayam.com/">sachivalayam com </a></li></ul>
+        \n<ul><li><a href = "https://sites.google.com/view/sharifvro">sachi </a></li></ul>
+    </string>
+</resources>
